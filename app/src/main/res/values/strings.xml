@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo Shop</string>
+
+    <string name="placeholder_text">Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.</string>
+    <string name="company">Компания: </string>
+    <string name="name">Имя товара: </string>
+    <string name="price">Цена: </string>
+    <string name="category">Категория:</string>
+
+</resources>
